@@ -10,5 +10,18 @@ Full Livewire Volt support for VSCODE.
 
 ## Roadmap
 
-- [x] Support class API
-- [ ] Suppport functional API
+### Volt
+
+- [x] Components
+- [ ] Attributes
+- [x] Methods
+- [x] Models
+- [x] Wire directives
+- [ ] "At"(@) directives
+- [ ] Functional API
+
+### Blade
+- [ ] Components
+- [ ] Properties
+- [ ] Slots
+    
