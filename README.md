@@ -3,8 +3,9 @@
     <br>
 </div>
 
-# Livewire Volt + Blade intellisense for VSCODE 
+# Voltage
 
+Livewire Volt + Blade intellisense for VSCODE.
 
 ### Volt
 
