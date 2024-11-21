@@ -3,21 +3,8 @@
     <br>
 </div>
 
-# Livewire Volt 
+# Livewire Volt + Blade intellisense for VSCODE 
 
-
-Livewire Volt + Blade intellisense for VSCODE.
-
-## Sponsor
-
-Let's keep pushing it, [sponsor me](https://github.com/sponsors/robsontenorio) ❤️
-
-
-## Follow me
-
-[@robsontenorio](https://twitter.com/robsontenorio)
-
-## Roadmap
 
 ### Volt
 
@@ -33,3 +20,14 @@ Let's keep pushing it, [sponsor me](https://github.com/sponsors/robsontenorio) �
 - [ ] Components
 - [ ] Properties
 - [ ] Slots
+
+
+## Sponsor
+
+Let's keep pushing it, [sponsor me](https://github.com/sponsors/robsontenorio) ❤️
+
+
+## Follow me
+
+[@robsontenorio](https://twitter.com/robsontenorio)
+
