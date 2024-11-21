@@ -3,10 +3,19 @@
     <br>
 </div>
 
-# Livewire Volt extension for VSCODE
+# Livewire Volt 
 
 
-Full Livewire Volt support for VSCODE.
+Livewire Volt + Blade intellisense for VSCODE.
+
+## Sponsor
+
+Let's keep pushing it, [sponsor me](https://github.com/sponsors/robsontenorio) ❤️
+
+
+## Follow me
+
+[@robsontenorio](https://twitter.com/robsontenorio)
 
 ## Roadmap
 
@@ -24,12 +33,3 @@ Full Livewire Volt support for VSCODE.
 - [ ] Components
 - [ ] Properties
 - [ ] Slots
-
-## Sponsor
-
-Let's keep pushing it, [sponsor me](https://github.com/sponsors/robsontenorio) ❤️
-
-
-## Follow me
-
-[@robsontenorio](https://twitter.com/robsontenorio)
