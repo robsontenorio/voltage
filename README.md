@@ -3,7 +3,7 @@
     <br>
 </div>
 
-# Livewire Volt 
+# Livewire Volt extension for VSCODE
 
 
 Full Livewire Volt support for VSCODE.
