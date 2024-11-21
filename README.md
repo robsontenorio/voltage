@@ -24,4 +24,12 @@ Full Livewire Volt support for VSCODE.
 - [ ] Components
 - [ ] Properties
 - [ ] Slots
-    
+
+## Sponsor
+
+Let's keep pushing it, [sponsor me](https://github.com/sponsors/robsontenorio) ❤️
+
+
+## Follow me
+
+[@robsontenorio](https://twitter.com/robsontenorio)
