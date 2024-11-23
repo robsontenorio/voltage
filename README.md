@@ -37,9 +37,9 @@ Enable autocomplete **inside quotes** as you type. Otherwise you need to force a
 }
 ```
 
-#  Formating
+#  Formatting
 
-- It **does not** deal with formating.
+- It **does not** deal with formatting.
 - Let `PHP Intelephense` do it for `.bldade.php` files.
 
 # Scan components
