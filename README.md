@@ -1,8 +1,8 @@
 <img src="https://github.com/robsontenorio/voltage/blob/main/voltage.png?raw=true" >
 
-# Attention:  Not working yet!
+# Attention:  WIP!
 
-Come back  soon ....
+Update it regularly to get new features done.
 
 # Volt
 
@@ -36,6 +36,11 @@ Enable autocomplete **inside quotes** as you type. Otherwise you need to force a
     "strings": "on"
 }
 ```
+
+#  Formating
+
+- It **does not** deal with formating.
+- Let `PHP Intelephense` do it for `.bldade.php` files.
 
 # Scan components
 
