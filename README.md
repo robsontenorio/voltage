@@ -1,8 +1,8 @@
-<img src="voltage.png" >
+<img src="https://github.com/robsontenorio/voltage/blob/main/voltage.png?raw=true" >
 
-# Attention:  Not working yet! Come back soon ...
+# Attention:  Not working yet!
 
-Come back  soon!
+Come back  soon ....
 
 # Volt
 
