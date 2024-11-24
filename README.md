@@ -10,15 +10,6 @@ Livewire Volt + Blade Intellisense.
 
 Autocomplete and "click to go" everywhere!
 
-# Sponsor
-
-Let's keep pushing it, [sponsor me](https://github.com/sponsors/robsontenorio) ❤️
-
-
-# Follow me
-
-[@robsontenorio](https://twitter.com/robsontenorio)
-
 # Notes
 
 ### Smooth autocomplete
@@ -33,16 +24,14 @@ Enable autocomplete **inside quotes** as you type. Otherwise you need to force a
 }
 ```
 
+### Scan components
+
+After installing or updating composer dependencies, make sure to scan components again with `Voltage: Scan components` from the command palette.
+
 ###  Formatting
 
 - It **does not** deal with formatting.
 - Let **PHP Intelephense** do it for `.blade.php` files.
-
-### Scan components
-
-You don't need to do it manually. 
-
-But, just in case, you can scan components again with `Voltage: Scan components` from the command palette.
 
 # Roadmap
 ### Volt
@@ -62,3 +51,12 @@ But, just in case, you can scan components again with `Voltage: Scan components`
 - [x] Attributes
 - [ ] Slots
 - [ ] Anonymous components
+
+# Sponsor
+
+Let's keep pushing it, [sponsor me](https://github.com/sponsors/robsontenorio) ❤️
+
+
+# Follow me
+
+[@robsontenorio](https://twitter.com/robsontenorio)
