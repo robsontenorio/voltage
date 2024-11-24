@@ -4,28 +4,24 @@
 
 Update it regularly to get new features done.
 
-# Volt
+# Voltage
 
-- [x] Components
-- [ ] Attributes
-- [x] Methods
-- [x] Models
-- [x] Wire directives
-- [ ] Components directives
-- [ ] "At"(@) directives
-- [ ] The "$wire" variable
-- [ ] Functional API
+Livewire Volt + Blade intellisense.
 
-# Blade
-- [ ] Components
-- [ ] Properties
-- [ ] Slots
+Autocomplete and click to go everywhere!
 
-# Docker
-- [ ] Make it work inside devcontainer
+# Sponsor
+
+Let's keep pushing it, [sponsor me](https://github.com/sponsors/robsontenorio) ❤️
 
 
-# Smooth autocomplete
+# Follow me
+
+[@robsontenorio](https://twitter.com/robsontenorio)
+
+# Notes
+
+### Smooth autocomplete
 
 Enable autocomplete **inside quotes** as you type. Otherwise you need to force autocomplete with `ctrl` + `space`.
 
@@ -37,22 +33,31 @@ Enable autocomplete **inside quotes** as you type. Otherwise you need to force a
 }
 ```
 
-#  Formatting
+###  Formatting
 
 - It **does not** deal with formatting.
-- Let `PHP Intelephense` do it for `.blade.php` files.
+- Let **PHP Intelephense** do it for `.blade.php` files.
 
-# Scan components
+### Scan components
 
 You don't need to do it manually. 
 
 But, just in case, you can scan components again with `Voltage: Scan components` from the command palette.
 
-# Sponsor
+# Roadmap
+### Volt
 
-Let's keep pushing it, [sponsor me](https://github.com/sponsors/robsontenorio) ❤️
+- [x] Components
+- [x] Attributes
+- [x] Methods
+- [x] Models
+- [x] Wire directives
+- [ ] Events 
+- [ ] Common `@` completions
+- [ ] The "$wire" variable
+- [ ] Functional API
 
-
-# Follow me
-
-[@robsontenorio](https://twitter.com/robsontenorio)
+### Blade
+- [ ] Components
+- [ ] Properties
+- [ ] Slots
