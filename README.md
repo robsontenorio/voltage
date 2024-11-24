@@ -8,7 +8,7 @@ Update it regularly to get new features done.
 
 Livewire Volt + Blade Intellisense.
 
-Autocomplete and click to go everywhere!
+Autocomplete and "click to go" everywhere!
 
 # Sponsor
 
