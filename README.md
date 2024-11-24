@@ -6,7 +6,7 @@ Update it regularly to get new features done.
 
 # Voltage
 
-Livewire Volt + Blade intellisense.
+Livewire Volt + Blade Intellisense.
 
 Autocomplete and click to go everywhere!
 
@@ -58,6 +58,7 @@ But, just in case, you can scan components again with `Voltage: Scan components`
 - [ ] Functional API
 
 ### Blade
-- [ ] Components
-- [ ] Properties
+- [x] Components
+- [x] Attributes
 - [ ] Slots
+- [ ] Anonymous components
