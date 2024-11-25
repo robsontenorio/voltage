@@ -4,15 +4,7 @@
 
 Update it regularly to get new features done.
 
-# Voltage
-
-Livewire Volt + Blade Intellisense.
-
-Autocomplete and "click to go" everywhere!
-
-# Notes
-
-### Smooth autocomplete
+# Smooth autocomplete
 
 Enable autocomplete **inside quotes** as you type. Otherwise you need to force autocomplete with `ctrl` + `space`.
 
@@ -24,13 +16,15 @@ Enable autocomplete **inside quotes** as you type. Otherwise you need to force a
 }
 ```
 
-### Scan components
+# Scan components
 
-After installing or updating composer dependencies, make sure to scan components again with `Voltage: Scan components` from the command palette.
+You do not need to do it manually.
 
-###  Formatting
+But, just in case, you can hit `Voltage: Scan components` from the command palette.
 
-- It **does not** deal with formatting.
+#  Formatting
+
+- It **DOES NOT** deal with formatting (for now).
 - Let **PHP Intelephense** do it for `.blade.php` files.
 
 # Roadmap
