@@ -27,8 +27,9 @@ body:
       required: true
 
   - type: input
-    id: livewire-version
+    id: livewire-version    
     attributes:
+      label: Livewire version
       placeholder: "example: 3.11.2"
     validations:
       required: true
