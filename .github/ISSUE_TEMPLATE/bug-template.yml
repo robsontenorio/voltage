@@ -1,0 +1,50 @@
+name: Bug Report
+description: File a bug report
+labels: [ "bug", "triage" ]
+body:
+  - type: input
+    id: voltage-version
+    attributes:
+      label: Voltage version
+      placeholder: "example: 1.0.3"
+    validations:
+      required: true
+
+  - type: input
+    id: vscode-version
+    attributes:
+      label: VSCode version
+      placeholder: "example: 1.9.5"
+    validations:
+      required: true
+
+  - type: input
+    id: laravel-version
+    attributes:
+      label: Laravel version
+      placeholder: "example: 11.2.1"
+    validations:
+      required: true
+
+  - type: input
+    id: livewire-version
+    attributes:
+      placeholder: "example: 3.11.2"
+    validations:
+      required: true
+
+
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?      
+      value: |                
+        ❌ Don't paste code as screenshot. 
+        
+        ✅ Paste the code as text.
+
+        ⚠️ There is no other way to test it if you don't provide the full file content.
+      
+
+    validations:
+      required: true
