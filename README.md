@@ -1,20 +1,21 @@
 <img src="https://github.com/robsontenorio/voltage/blob/main/voltage.png?raw=true" >
 
-# Volt
+<br>
 
-This version only supports class-based Livewire Volt components, not the functional API.
+✔️ Formatter  
+✔️ Click to go  
+✔️ Autocomplete  
+✔️ Syntax highlight    
+✔️ Blade components  
+✔️ Volt class-based  
+❌ Volt functional API  
 
-# Blade 
+*This plugin works with "**PHP**" language mode. Please, disable other related extensions that adds **"Blade"** language and restart VSCode*. 
 
-Blade syntax included.
-
-# Click to go 
-
-Just "click to go" everywhere.
 
 # Autocomplete 
 
-**Enable autocomplete inside quotes as you type.**
+**Make autocomplete smooth inside quotes as you type.**
 
 ```json
 "editor.quickSuggestions": {
@@ -24,7 +25,7 @@ Just "click to go" everywhere.
 
 #  Format 
 
-**1) Make Voltage as default formatter.**
+**1) Make Voltage as default formatter for PHP.**
 
 ```json
 "[php]": {
@@ -82,3 +83,7 @@ Let's keep pushing it, [sponsor me](https://github.com/sponsors/robsontenorio) �
 # Follow me
 
 [@robsontenorio](https://twitter.com/robsontenorio)
+
+# Feedback
+
+https://github.com/robsontenorio/voltage
